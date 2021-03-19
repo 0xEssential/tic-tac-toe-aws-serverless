@@ -1,4 +1,4 @@
-##### Next React Tic Tac Toe Demo
+# Next React Tic Tac Toe Demo
 This is the repository for this tutorial with Brian, Shubham and Parth. [Here](https://www.youtube.com/watch?v=XinxFNHHecM)!
 
 For this application we followed [Learn Next.js](https://nextjs.org/learn):
